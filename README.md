@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Pathak</h1>
-<h3 align="center">A passionate frontend developer from India & a beginner in this world of Programs and a passionate learner , trying to learn something new everyday .</h3>
+<h3 align="center">An enthusiast on his way to become full stack developer from India & a beginner in this world of Programs and a passionate learner , trying to learn something new everyday .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathakjatin&label=Profile%20views&color=0e75b6&style=flat" alt="pathakjatin" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PetConnect](https://github.com/pathakjatin/PetConnect)
 
-- 🌱 I’m currently learning **JavaScript , Tailwind , PHP**
+- 🌱 I’m currently learning **JavaScript , PHP**
 
 - 💬 Ask me about **C**
 
