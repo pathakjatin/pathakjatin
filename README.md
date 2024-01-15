@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_jatin_pathak_" target="blank"><img src="https://img.shields.io/twitter/follow/_jatin_pathak_?logo=twitter&style=for-the-badge" alt="_jatin_pathak_" /></a> </p>
 
-- 🔭 I’m currently working on a [Portfolio](https://github.com/pathakjatin/Portfolio-Pradyumna-)
+- 🔭 I’m currently working on a [Spotify Clone](https://github.com/pathakjatin/spotifyClone)
 
 - 🌱 I’m currently learning **Java & Javascript**
 
